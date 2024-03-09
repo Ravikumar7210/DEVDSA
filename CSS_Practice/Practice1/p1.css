@@ -1,0 +1,19 @@
+*{
+font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    color: #1b474e;
+}
+
+#login, #regis{
+background-color: aqua;
+}
+
+#searchbtn{
+    background-color: black;
+    color: white;
+}
+
+#myid p{
+    color: green;
+}
