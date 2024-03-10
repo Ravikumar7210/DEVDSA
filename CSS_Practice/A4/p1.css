@@ -34,5 +34,5 @@ color: red;
 }
 
 #yes:checked + label {
-    color: darkgreen;
+    color: red;
 }
